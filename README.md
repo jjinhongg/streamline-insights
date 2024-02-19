@@ -53,6 +53,3 @@ Source: Conversation with Bing, 19/02/2024
 (1) How to Write a Good README File for Your GitHub Project - freeCodeCamp.org. https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/.
 (2) How to write a perfect README for your GitHub project. https://dev.to/mfts/how-to-write-a-perfect-readme-for-your-github-project-59f2.
 (3) Quickstart for writing on GitHub - GitHub Docs. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github.
-(4) undefined. https://github.com/mfts/papermark.
-(5) undefined. https://github.com/mfts/papermark.git.
-(6) undefined. http://localhost:3000.
